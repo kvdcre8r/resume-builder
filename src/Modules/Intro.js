@@ -30,7 +30,7 @@ function Intro() {
           customize your resume using various fonts, colors, and designs. Add
           sections to your resume, such as Technical Skills, Work Experience,
           and Relevant Education. Once you're satisfied with your design, you
-          can save your work directly to your local drive. It's just that easy
+          can save your work as a PDF directly to your local drive. It's just that easy
           to create an inspiring and eye-catching professional resume!
         </p>
       </details>
